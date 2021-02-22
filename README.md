@@ -52,7 +52,9 @@ Explicit - almost like loosely giving it things to attach to, but waiting til la
 
 5. Why do we need super() in an extended class?
 
-It copies the properties and methods from the parent class and creates them for the child class
+It copies the properties and methods from the parent class and creates them for the child classgit
+
+// git test
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
